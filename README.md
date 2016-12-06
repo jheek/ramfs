@@ -1,5 +1,13 @@
 # ramfs
 
+
+0) requirements (given for Debian)
+
+```
+sudo apt-get install -y build-essential
+```
+
+
 1) run make all in the src directory
 ```
 make all
