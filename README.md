@@ -4,7 +4,10 @@
 0) requirements (given for Debian)
 
 ```
-sudo apt-get install -y build-essential
+sudo apt-get install -y build-essential git
+
+git clone git@github.com:jheek/ramfs.git
+cd ramfs
 ```
 
 
